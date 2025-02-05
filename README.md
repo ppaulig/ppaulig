@@ -3,9 +3,9 @@
 
 - Me encuentro en el segundo año de la carrera **Tecnicatura Universitaria en Programación**, en la Universidad Tecnológica Nacional (UTN).
 
-- Estoy trabajando en proyectos personales para poder adquirir experiencia y armar mi portfolio.
+- 🌱 Estoy trabajando en proyectos personales para poder adquirir experiencia y armar mi portfolio.
 
-- 🌱 Busco oportunidades para aplicar mis habilidades, adquirir conocimientos y crecer profesionalmente.
+
 
 <h3 align="left">Encuéntrame en mis redes sociales:</h3>
 <p align="left">
