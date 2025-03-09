@@ -1,5 +1,5 @@
 <h1 align="center">🙋🏻‍♀️ ¡Hola! soy Paula General</h1>
-<h3 align="center">Programadora Junior - Estudiante de programación</h3>
+<h3 align="center">Junior Backend Developer - Estudiante de programación</h3>
 
 - Me encuentro en el segundo año de la carrera **Tecnicatura Universitaria en Programación**, en la Universidad Tecnológica Nacional (UTN).
 
