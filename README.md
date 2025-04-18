@@ -1,10 +1,7 @@
 <h1 align="center">🙋🏻‍♀️ ¡Hola! soy Paula General</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
-- Me encuentro en el segundo año de la carrera **Tecnicatura Universitaria en Programación**, en la Universidad Tecnológica Nacional (UTN).
-
-- 🌱 Estoy trabajando en proyectos personales para poder adquirir experiencia y armar mi portfolio.
-
+- Me encuentro en el segundo año de la carrera **Tecnicatura Universitaria en Programación**, en la Universidad Tecnológica Nacional (UTN)
 
 
 <h3 align="left">Encuéntrame en LinkedIn:</h3>
