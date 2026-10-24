@@ -1,17 +1,16 @@
 <h1 align="center">¡Hola! soy Paula General</h1>
-<h3 align="center">Desarrolladora Backend 👩🏻‍💻</h3>
-
 <!--  -->
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Soy **Técnica Universitaria en Programación** (UTN) y actualmente estudiante de **Ingeniería en Sistemas de Información** (UNS).  
-   
-*En este espacio vas a encontrar trabajos prácticos de la carrera, proyectos personales y experimentos en áreas en las que quiero comenzar a aventurarme como Inteligencia Artificial, datos e infraestructura.*  
+Soy **Técnica Universitaria en Programación** (UTN) y actualmente estudiante de **Ingeniería en Sistemas de Información** (UNS). 
+Trabajo en desarrollo web en proyectos freelance, centrándome en el **backend**, donde sigo aprendiendo a resolver problemas reales.
+
+*En este espacio vas a encontrar trabajos prácticos de la carrera, proyectos personales y experimentos en áreas que quiero empezar a explorar, como Inteligencia Artificial, datos e infraestructura.*  
 ────୨ৎ────
   
 
       
-### Habilidades Aprendidas ↓
+### Habilidades Aprendidas
 
 <h4> Lenguajes de programación </h4>
 
