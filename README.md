@@ -4,10 +4,9 @@
 <!--  -->
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Soy estudiante del último año de la **Tecnicatura Universitaria en Programación** en la Universidad Tecnológica, UTN, de Bahía Blanca.  
- - Mi objetivo profesional es seguir perfeccionándome en el área de **Backend** y en el **trabajo con datos**, fortaleciendo mis habilidades en el desarrollo y gestión de información.
+Soy **Técnica Universitaria en Programación** (UTN) y actualmente estudiante de **Ingeniería en Sistemas de Información** (UNS).  
    
-*En este espacio vas a encontrar mis proyectos, prácticas y avances, donde comparto lo que voy aprendiendo en el mundo de la programación.*  
+*En este espacio vas a encontrar trabajos prácticos de la carrera, proyectos personales y experimentos en áreas en las que quiero comenzar a aventurarme como Inteligencia Artificial, datos e infraestructura.*  
 ────୨ৎ────
   
 
